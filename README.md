@@ -10,6 +10,7 @@ By fairness assumption, the test set should be similarly distributed (in case st
 * Tensorflow
 * Numpy
 * tqdm
+* Pytorch for (Demo.py latest versioned with parallelisation)
 
 ## Approach Details
 There are two approaches that comes to my mind for solving this problem. One is using reinforcement learning or casting the problem as supervised learning.
